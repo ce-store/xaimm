@@ -1,0 +1,11 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016, 2018
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Load models
+perform load sentences from url '/ce/models/science-library/cmd/load_sl_model.cecmd'.
+perform load sentences from url '/ce/models/xai/cmd/load_xai_model.cecmd'.
+
+-- Load facts
+perform load sentences from url '/ce/facts/xai.ce'.

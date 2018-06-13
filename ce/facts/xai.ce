@@ -1,0 +1,7 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016, 2018
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is an interpretability mode named 'post-hoc'.
+there is an interpretability mode named 'transparent'.
