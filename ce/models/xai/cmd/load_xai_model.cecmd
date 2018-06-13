@@ -3,4 +3,4 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
-perform load sentences from url '/ce/xai/model/xai.ce'.
+perform load sentences from url '/ce/models/xai/model/xai.ce'.
